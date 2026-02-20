@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Yasmine Ehab 👋</h1>
-<h3 align="center">Computer Engineering Student @ Al-Azhar University | Data Engineer | AI & Data Science Enthusiast</h3>
+<h3 align="center">Data Engineer | AI & Data Science Enthusiast</h3>
 
 ## 👩‍💻 About Me
 I am a specialized **Data Engineer** focused on designing and building robust big data solutions. With a strong foundation in Computer Engineering and MCIT-certified expertise (including an AI & Machine Learning program at ITI), I bring a blend of academic rigor and practical industry skills. 
@@ -42,10 +42,6 @@ I am a specialized **Data Engineer** focused on designing and building robust bi
 - 🌍 **UrbanEco-Vision:** A responsive web application built with React and TypeScript.
 - 🏆 **Hackathons & Tech Events:** Participated in NASA Space Apps Cairo, DotPy AI Developer Camp, EDEX, and visited VOIS (Vodafone Intelligent Solutions).
 - 🤝 **Community & Volunteering:** Co-led a problem-solving workshop at AZEX, participated in the university scout camp, and contributed to the "Al-Khwarizmi Algorithm Camp" for kids.
-
-## 🎁 Exclusive Offer (For Freelance Collaborations)
-Because the success of your project starts with the accuracy of your data, I offer the following with our first collaboration:
-**A Free Technical Roadmap + Initial Analysis of a sample of your data**, to lay the right foundation before actual implementation begins.
 
 <p align="center">
   <i>Ready to discuss your project details and turn data into added value for your business? Let's connect!</i>
